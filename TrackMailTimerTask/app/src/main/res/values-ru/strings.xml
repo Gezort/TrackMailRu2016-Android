@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_view_default">Таймер</string>
+    <string name="timer_button_start">Старт</string>
+    <string name="timer_button_stop">Стоп</string>
+
+</resources>
